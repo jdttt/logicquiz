@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<quiz>
+    <q flash="y">
+        <content>
+            What is the Universe History Well-being Level? How is it defined?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            The "UHWL" is the sum total of the Lifetime Well-being Levels ("LWLs")
+	    of every being that exists, has existed, and ever will exist in the
+	    entire history of the universe.
+        </explanation>
+
+	<study>
+	    If the UHWL is positive, does that mean the number of beings in 
+	    the history of the universe with a positive LWL is greater than
+	    the number with a negative LWL? Why or why not?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What does Utilitarianism say?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    Utilitarianism says that an action is objectively morally wrong
+	    if and only if there is something else
+	    you could do that would result in a higher
+	    Universe History Well-being Level.
+        </explanation>
+
+	<study>
+	    Does Utilitarianism always tell us to benefit as many people
+	    as possible? Why or why not?
+	</study>
+    </q>
+
+    <q flash="y">
+	<content>
+	    What will Utilitarianism say if there
+	    are two or more actions that would each result in
+	    the same UHWL, but no other action would
+	    result in higher UHWL than them?
+	</content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    Utilitarianism says it’s permissible to do any of those two or more actions.
+        </explanation>
+    </q>
+
+    <q flash="y">
+	<content>
+	    What will Utilitarianism say if all of your
+	    options would result in negative UHWL, but some
+	    would result in less negative UHWL than others?
+	</content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    Utilitarianism will say to perform an
+	    option that will result in the least negative
+	    UHWL compared with the alternatives.
+	</explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What does the "No Guidance" objection to Utilitarianism say?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    It says this: *It seems that a moral theory should
+	    be useful. It should give us real-world guidance.
+	    But Utilitarianism seems like it will typically be useless, since we
+	    typically can’t know what action would result in the highest UHWL.*
+	</explanation>
+
+	<study>
+	    What are the two responses to this objection that a utilitarian
+	    could make that we discussed in class?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the "Best Intentions" objection to Utilitarianism?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    The Best Intentions objection
+	    says: *If Utilitarianism is true, then failing to raise the UHWL as much as you can
+	    is objectively immoral. But no! An act is not wrong when 
+	    the person doing it can't predict the outcome 
+	    and is acting with good intent. So, Utilitarianism is false.*
+	</explanation>
+
+	<study>
+	    What is the response to this discussed in class? (Hint: wrong versus blame...)
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What does a "Rights Theorist" in ethics believe?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    Rights Theorists claim that there are certain rights that all people have simply because
+	    they are people. These rights are known as *moral rights* (sometimes
+	    they are called *human* rights). 
+
+	    Moral rights are supposed to be shared by all people;
+	    they are not dependent on the laws of any government and cannot be taken away by any government.
+
+	    Rights Theorists disagree about exactly which rights are moral rights, but
+	    they mostly agree that our moral rights include the
+	    right to life, the right to liberty, the right to fair and equal 
+	    treatment by governments, and the right to not be held in slavery or servitude.
+        </explanation>
+
+	<study>
+	    A famous Rights Theorist document outlining a number of supposed moral
+	    rights is the UN Human Rights Declaration, which you can 
+	    find [here](https://www.un.org/en/about-us/universal-declaration-of-human-rights).
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+	    What is the Angry Mob case and how is it used to challenge Utilitarianism 
+	    using moral rights?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    In the Angry Mob case someone has killed the town’s beloved schoolteacher. 
+	    The townspeople all think that Jones did it. Jones is hiding in the 
+	    sheriff's office. Some people in the town have formed a mob. 
+
+	    If the sheriff shoots Jones and hands over the body, the mob will disperse. 
+	    If the sheriff lets the mob have Jones, they will tear him to pieces---a much more painful way to die. 
+	    If the sheriff protects Jones, the mob will riot, several innocents (not members of the mob) will be killed, and many will be badly injured.
+
+	    Utilitarianism says the sheriff must shoot Jones, since this both prevents the riot and
+	    minimizes Jones's suffering. But many intuitively judge that the morally correct thing to do is to 
+	    protect Jones, as this preserves Jones's rights, even though the UHWL will be lower.
+	</explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Utility Monster objection to Utilitarianism?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    You have five thousand pounds of rice you don’t need.
+
+	    You could give one pound each to five thousand starving people,
+	    which would result in +500,000 well-being added to the universe.
+
+	    You could also give all five thousand pounds to the Utility
+	    Monster, who will experience a +1,000,000 boost in well-being. 
+
+	    Utilitarianism says the objectively morally correct thing to do
+	    is to give the rice to the monster, since this will add more to the UHWL.
+
+	    But to many it seems Utilitarianism's verdict is clearly wrong, 
+	    since the intuitively moral thing to do is to feed the villagers.
+	</explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+	    Utilitarianism says that often the only morally acceptable lifestyle for someone
+	    in the developed world is to donate all their discretionary 
+	    income --- what's left after taxes and 
+	    basic necessities are paid for --- to an effective charity. 
+
+	    *Why does it say this?*
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    Often, the more needy a person is, the easier it is to raise 
+	    their well-being level. (For example, a sandwich to a starving man
+	    is a huge boost of well-being, but not much of a boost to someone well-fed and not hungry.
+	    Another example: 50 cents means almost nothing to a typical American,
+	    but to a child in a very poor nation, it can purchase a deworming pill that
+	    will cure and prevent intestinal parasites for 6 months.)
+
+	    Effective charities can therefore often create far more well-being per
+	    dollar spent compared to what a typical American creates when spending on themselves.
+	    Utilitarianism tells us we must maximize the well-being we create with our choices.
+	    This implies we must often spend all non-essential money we make on effective charities.
+        </explanation>
+
+	<study>
+	    To many this is a reason to reject Utilitarianism as "too demanding". But Utilitarians challenge
+	    us to explain the difference between a child suffering in a developing country and 
+	    a child dying right in front to us. To see how effective small donations can be, 
+	    visit [this site](https://www.givewell.org/) or [this site](https://www.evidenceaction.org/).
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Drowning Baby argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1)	Common sense morality says it IS WRONG ignore a drowning baby in front of you just to avoid ruining new shoes.
+
+	    P2)	Common sense morality says it IS NOT WRONG to ignore a starving child just to spend money on something besides charity.
+
+	    P3)	There is no real morally important difference between these two children.
+
+	    C)	Therefore, common sense morality is *inconsistent* and should be discarded in favor
+	    of a consistent moral theory like Utilitarianism, which says 
+	    we have a moral duty to both the drowning baby and the starving child.
+	</explanation>
+
+	<study>
+	    To see how effective small donations can be, 
+	    visit [this site](https://www.givewell.org/) or [this site](https://www.evidenceaction.org/).
+	</study>
+    </q>
+</quiz>

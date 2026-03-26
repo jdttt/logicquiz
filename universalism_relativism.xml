@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<quiz>
+    <q flash="y">
+        <content>
+	    What is a moral code? 
+        </content>
+    
+        <explanation>
+	    A moral code is a list of rules for behavior. Any list
+	    of rules for behavior counts as a moral code.
+        </explanation>
+    </q>
+    <q flash="y">
+        <content>
+            What are the two claims that Moral Universalism makes?
+        </content>
+    
+        <explanation>
+	    1. There is at least one objectively true moral rule that it is morally wrong for anyone to break regardless of whether they accept the rule.
+
+	    2. Objectively true moral rules never change. 
+        </explanation>
+    </q>
+    <q flash="y">
+        <content>
+           What are the two claims that Cultural Relativism makes? 
+        </content>
+    
+        // use the a snippet here to add answers
+    
+        <explanation>
+            1. It is objectively morally wrong to break any moral rule accepted by your society or culture.
+
+	    2. There are no moral rules that all societies and cultures must accept.
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What are the three main attractions of Cultural Relativism?
+        </content>
+        
+        <explanation>
+	    1. It offers an easy escape from Moral Skepticism.
+	    
+	    2. It offers a way to understand how different answers to moral questions can be right for different people.
+            
+	    3. It seems to promote tolerance. 
+        </explanation>
+
+	<study>
+	    Why does Cultural Relativism seem to offer an easy escape from Moral Skepticism? Also, does 
+	    Cultural Relativism really promote tolerance --- what if your society believes it should impose
+	    its beliefs on everyone else? What would Cultural Relativism say you ought to do in that situation?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What does Moral Skepticism say?
+        </content>
+    
+        <explanation>
+	    It is impossible to *know* the answer to *any* moral question.
+        </explanation>
+    </q>
+    <q flash="y">
+        <content>
+            What is the Disagreement Argument Against Moral Universalism?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1)	People disagree about morality even after lots of debate.
+
+	    P2) If people disagree about morality even after lots of debate, then everyone's moral beliefs are equally correct.
+
+	    P3) If everyone's moral beliefs are equally correct, then there is no True Moral Code.
+
+	    C)	Therefore, there is no True Moral Code.
+
+        </explanation>
+	<study>
+	    Which premise(s) do defenders of Moral Universalism deny and why?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Observation Argument Against Moral Universalism?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    P1)	Moral questions cannot be answered by any experiment or observation. 
+
+	    P2)	If moral questions cannot be answered by any experiment or observation, then they have no real answers. 
+
+	    P3)	If moral questions have no real answers, then there is no True Moral Code.
+
+	    C)	Therefore, there is no True Moral Code.
+
+	    
+        </explanation>
+
+	<study>
+	    Which premise(s) do defenders of Moral Universalism deny and why?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+	    What is a moral intuition supposed to be?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    A clear mental perception of an objective moral truth. 
+
+	    Intuitions can come in degrees of strength.
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Undeniable Wrongs Argument Against Cultural Relativism?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    P1)	Some actions are never okay to do, even if your society accepts them. 
+
+	    P2) If Cultural Relativism is true, then any action is okay to do if your society accepts it. 
+
+	    C)	Therefore, Cultural Relativism is false. 
+        </explanation>
+
+	<study>
+	    What is the argument form here?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Moral Progress Argument Against Cultural Relativism?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    P1)	If Cultural Relativism is true, then societies can change, but cannot morally improve.
+
+	    P2)	But some societies can and do morally improve.
+
+	    C)	Therefore, Cultural Relativism is false. 
+	</explanation>
+
+	<study>
+	    What is the argument form here?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the One Person Many Cultures Argument Against Cultural Relativism?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    P1) Each person belongs to many societies and cultures, none of which is "morally special." 
+
+	    P2) If each person belongs to many societies and cultures, none of which is "morally special", 
+	    then no one society or culture determines what moral code a person must follow.
+
+	    P3) If no one society or culture that determines what moral code a person must follow, then Cultural Relativism is false. 
+
+	    C) Therefore, Cultural Relativism is false.
+	</explanation>
+
+	<study>
+	    What is the argument form here?    
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What does Individual Relativism say?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            1. It is objectively morally wrong to break any moral rule you accept.
+
+	    2. There are no moral rules you are in any sense required to accept.
+        </explanation>
+
+	<study>
+	    Why is this theory especially hard to accept? What are its implications?
+	</study>
+    </q>
+
+    <q>
+        <content>
+            Which of the following is a conditional moral rule?
+        </content>
+        <answer correct="1">
+	    If you are in a country where wearing shoes inside a person's home is considered disrespectful, you should take 
+	    your shoes off when entering a stranger's home.
+        </answer>
+        
+        <answer correct="0">
+            Stealing is always morally wrong.
+        </answer>
+
+	<answer correct="0">
+	    It is unconditionally morally wrong to lie.
+	</answer>
+
+	<answer correct="0">
+	    It is always morally permissible to do what's required to save your own life.
+	</answer>
+        <explanation>
+	    A conditional moral rule is a moral rule that asserts a moral requirement that is limited to
+	    certain circumstances. They are usually stated with "if-then" (conditional) sentences,
+	    but can be stated in other ways too. (E.g., it's wrong to kill unless you are a soldier in war.)
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What does Divine Command Theory say?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            1. Any time you do something objectively morally wrong, you have broken a divine command.
+
+	    2. Any time you break a divine command, you have done something objectively morally wrong.
+        </explanation>
+	<study>
+	    There are two versions of DCT corresponding to the two ways of responding to the Euthyphro question. What are they?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the DCT-Version of the Euthyphro Question?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    Are objectively morally wrong things wrong *because God commands us not to do them,*
+	    or does God command us not to do objectively morally wrong things *because they are wrong?*
+        </explanation>
+
+	<study>
+	    Does it make sense to answer "Both" here? Why or why not?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Argument With The Terrible Conclusion?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    P1) It is morally right and good to do whatever God commands, and what makes it morally right and good is just the fact that God commands it.
+
+	    P2) God has the power to command any action, and for no reason other than to get us to prove our loyalty.
+
+	    C) Therefore, God has the power to make it morally right to torture an innocent baby just to prove our loyalty. 
+	</explanation>
+
+	<study>
+	    What are the three responses to this argument discussed in class?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What are the three reasons the Bible is not a complete and easy guide to all of morality?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            1. Commands in the Bible are sometimes obscure. (E.g., the "unforgiveable sin".)
+
+	    2. Some important moral topics are never directly discussed in the Bible. (E.g., abortion.)
+
+	    3. The Bible's commands sometimes seem morally questionable or even clearly incorrect. (E.g., never resisting evil.)
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What does Psychological Egoism say?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    It is impossible to have an
+	    unselfish motivation for one’s actions, feelings,
+	    and emotions.
+	    In other words, all motivation is
+	    inherently selfish. 
+	</explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Argument From Reinterpretation?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    P1) We can imagine a selfish motivation for any action.
+
+	    P2) If we can imagine a selfish motivation for any action, then motivation is always selfish.
+
+	    C) Therefore, motivation is always selfish.
+	</explanation>
+
+	<study>
+	    What is the argument form here? What is the problem with this argument?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+	    What is the Pleasure-Seeker Argument for Psychological Egoism?            
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    P1) If everyone always tries to maximize pleasure for themselves, then everyone’s motivation is always selfish.
+
+	    P2) Everyone always tries to maximize pleasure for themselves.
+
+	    C) Therefore, everyone’s motivation is always selfish.
+	</explanation>
+
+	<study>
+	    How can an opponent of Psychological Egoism respond to this argument? Which premise will they deny and why?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+	    What is the Desire-Seeker Argument for Psychological Egoism?            
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+	<explanation>
+	    P1) If everyone always tries to satisfy their desires, then everyone’s motivation is always selfish.
+
+	    P2) Everyone always tries satisfy their desires.
+
+	    C) Therefore, everyone’s motivation is always selfish.     
+	</explanation>
+
+	<study>
+	    How can an opponent of Psychological Egoism respond to this argument? Which premise will they deny and why?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What does Moral Nihilism say?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            Nothing is ever objectively morally wrong.
+        </explanation>
+
+	<study>
+	    Why is this view hard to swallow?
+	</study>
+    </q>
+</quiz>

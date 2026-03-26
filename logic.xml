@@ -1,0 +1,1088 @@
+<?xml version="1.0"?>
+<quiz>
+    <q>
+        <content>
+            According to the radio commentator, there are people gathering tonight
+            around the center of town to protest the recent tax increases. Since you
+            disagree with the tax increases, you should join the protestors tonight.
+        </content>
+    
+	<answer correct="1">
+	    Argument
+	</answer>
+	<answer correct="0">
+	    Not an argument --- Purely expository passage        
+	</answer>
+	<answer correct="0">
+	    Not an argument. Pure expression of belief 
+	</answer>
+	<answer correct="0">
+	    Not an argument. Conditional statement in isolation. 
+	</answer>
+
+    
+        <explanation>
+            This is an argument. Here are the premises and the conclusion labeled:  
+    
+	    P1) According to the radio commentator, there are people gathering 
+	    tonight around the center of town to protest the recent tax increases.
+    
+            P2) You disagree with the tax increases. (**Premise Indicator**: "since")
+    
+            C) Therefore, you should join the protestors tonight.
+        </explanation>
+    </q>
+    <q>
+        <content>
+            If you mix the ingredients properly and bake it at the right
+    	temperature, then so long as the oven works properly the cake will come
+    	out fine.
+        </content>
+
+	<answer correct="1">
+	    Not an argument. Conditional in isolation.
+	</answer>
+	<answer correct="0">
+	    Argument
+	</answer>
+	<answer correct="0.5">
+	    Not an argument. Pure expression of belief.
+	</answer>
+	<answer correct="0.5">
+	    Not an argument. Command.
+	</answer>
+
+        <explanation>
+	    This is not an argument. 
+
+	    It is just a single conditional ("if-then") statement in isolation.
+        </explanation>
+    </q>
+    
+    
+    <q>
+        <content>
+            My favorite singer from the 70s is either Debbie Harry or David
+    	Bowie. If it's Debbie Harry then all of my favorite singers, from every
+    	decade, are women. Well, now that I think about it, I'm sure my favorite
+    	singer from the 70s is not David Bowie. So, I guess all my favorite
+	    singers, from every decade, *are* women.
+        </content>
+    
+
+	<answer correct="1">
+	    Argument
+	</answer>
+	<answer correct="0">
+	    Not an argument. Pure statement of belief.
+	</answer>
+	<answer correct="0">
+	    Not an argument. Purely expository passage.
+	</answer>
+	<answer correct="0">
+	    Not an argument. Conditional in isolation.
+	</answer>
+
+    
+        <explanation>
+    	This counts as an argument! The first three sentences provide reasons for the 
+    	final sentence, which is introduced with the conclusion indicator "so".
+        </explanation>
+    </q>
+    
+    
+    
+    
+    <q>
+        <content>
+	    I had to stand up during the ride home, since all of the seats were 
+	    taken and I didn't have time to wait for
+	    the next train.
+        </content>
+    
+
+	<answer correct="1">
+	    Argument
+	</answer>
+	<answer correct="0">
+	    Not an argument. Conditional in isolation.
+	</answer>
+	<answer correct="0">
+	    Not an argument. Purely expository passage.
+	</answer>
+	<answer correct="0">
+	    Not an argument. Pure expression of belief.
+	</answer>
+
+    
+        <explanation>
+    	This is an argument. There are two premises ("All the seats were taken" and "I didn't have
+    	time to wait for the next train"). There is also a premise indicator ("since"). 
+        </explanation>
+    </q>
+    
+    <q>
+        <content>
+            The tax bill is expected to sharply reduce the number of taxpayers
+	    who qualify for the charitable tax deduction --- a big driver of gifts
+	    to nonprofits. One study predicts that donations will fall by at least
+	    $13 billion, about 4.5 percent, next year. That decline is expected to
+	    be concentrated among gifts from the middle of the income scale.
+        </content>
+    
+        <answer correct="1">
+	   Not an argument. Purely expository passage.
+        </answer>
+    
+        <answer correct="0">
+	    Argument.	
+        </answer>
+
+        <answer correct="0.5">
+	    Not an argument. Conditional in isolation.
+        </answer>
+
+        <answer correct="0.5">
+	    Not an argument. Pure expression of belief.
+        </answer>
+    
+        <explanation>
+	    This is not an argument. It is best classified as a *purely expository passage*.        
+	    It presents the reader with information, but provides no reasons to accept that information.
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+	    I believe you should brush your teeth every night. 
+	    When I was little I was taught to do this. 
+        </content>
+    
+        <answer correct="1">
+	    Not an argument. Pure statement of belief.
+        </answer>
+
+        <answer correct="0">
+	    Valid argument.
+        </answer>
+
+	<answer correct="0.5">
+	    Not an argument. Conditional in isolation.
+	</answer>
+
+	<answer correct="0.5">
+	    Not an argument. Expository passage.
+	</answer>
+    
+        <explanation>
+	    This is not an argument. It is best classified as a 
+	    *pure statement of belief*. 
+	    Its purpose is to convey a personal belief but it does not
+	    provide any reasons for others to think that belief is true. 
+        </explanation>
+    </q>
+    
+    
+    <q>
+        <content>
+            It's important to save money; you never know what sort of financial
+	    obligations you might run into without warning. It's easy to open a
+	    savings account in addition to your checking account, and it makes
+	    saving money pretty simple. So, that's why I think you should do it.
+        </content>
+    
+        <answer correct="1">
+	    Argument.
+        </answer>
+    
+        <answer correct="0">
+	    Not an argument. Pure expression of belief.
+        </answer>
+
+	<answer correct="0">
+	    Not an argument. Purely expository.
+	</answer>
+
+	<answer correct="0">
+	    Not an argument. Only makes one assertion.
+	</answer>
+    
+        <explanation>
+	    This is an argument. It seems to be expressing a belief, but it's
+	    providing reasons for that belief. The conclusion is at the end and is
+	    introduced by the conclusion indicator "so".
+        </explanation>
+    </q>
+    
+    
+    <q>
+        <content>
+            The human history of Yellowstone National Park in the United States
+	    begins at least 11,000 years ago when Native Americans began to hunt and
+	    fish in the region. During the construction of the post office in
+	    Gardiner, Montana, in the 1950s, an obsidian projectile point of Clovis
+	    origin was found that dated from approximately 11,000 years ago.
+        </content>
+    
+        <answer correct="1">
+	    Not an argument. Purely expository passage.
+        </answer>
+    
+        <answer correct="0">
+	    Argument.
+        </answer>
+
+        <answer correct="0.5">
+	    Not an argument. Conditional in isolation.
+        </answer>
+
+        <answer correct="0.5">
+	    Not an argument. Pure expression of belief.
+        </answer>
+    
+        <explanation>
+	    This is not an argument. It is best classified as a *purely expository passage*.        
+	    It presents the reader with information, but provides no reasons to accept that information.
+        </explanation>
+    </q>
+    
+
+    <q>
+        <content>
+            Jamie's party starts at eight o'clock on Saturday. Jamie throws a
+	    party every year on the first Saturday of June. He is planning to
+	    barbecue if it doesn't rain.
+        </content>
+    
+        <answer correct="1">
+	   Not an argument. Purely expository passage.
+        </answer>
+    
+        <answer correct="0">
+	    Argument.	
+        </answer>
+
+	<answer correct="0.5">
+	    Not an argument. Conditional in isolation.
+	</answer>
+
+	<answer correct="0.5">
+	    Not an argument. Pure expression of belief.
+	</answer>
+    
+        <explanation>
+            This is not an argument. It's best classified as a *purely expository passage*.
+	    It provides information, but doesn't provide any reason to accept the assertions
+	    as true aside from the speaker's authority.
+        </explanation>
+    </q>
+
+
+    <q>
+        <content>
+            The victory for the Georgia Bulldogs on Monday wasn't easy. It was
+	    the first overtime game in the 104-year history of the Rose Bowl, the
+	    highest-scoring Rose Bowl ever and the first College Football Playoff
+	    game to go into overtime. 
+        </content>
+    
+        <answer correct="1">
+	    Argument
+        </answer>
+    
+        <answer correct="0">
+	    Not an argument. Purely expository passage.
+        </answer>
+
+	<answer correct="0">
+	    Not an argument. Conditional in isolation
+	</answer>
+
+	<answer correct="0">
+	    Not an argument. Pure expression of belief.
+	</answer>
+    
+        <explanation>
+	    This counts as an argument! The conclusion is the first sentence. The
+	    next sentence contains three separate reasons supporting the conclusion.
+        </explanation>
+    </q>
+
+
+
+    <q>
+        <content>
+            If the Trump Administration does not initiate a first strike against
+	    North Korea, and the North Koreans do not unduly provoke the United
+	    States or South Korea, a catastrophic war will be averted.
+        </content>
+    
+        <answer correct="1">
+	   Not an argument. Conditional in isolation.
+        </answer>
+    
+        <answer correct="0">
+	    Argument.
+        </answer>
+
+	<answer correct="0.5">
+	    Not an argument. Purely expository passage.
+	</answer>
+
+	<answer correct="0.5">
+	    Not an argument. Pure expression of belief.
+	</answer>
+    
+        <explanation>
+	    This is not an argument. It is a single conditional ("if-then") statement.
+        </explanation>
+    </q>
+
+
+    <q>
+        <content>
+            When you push on the gas pedal, it opens the engine's throttle.
+	    When the throttle opens, the engine is able to suck in more of the
+	    fuel/air mixture. When the engine is able to suck in more of the
+	    fuel/air mixture, the explosions in its combustion chambers are more
+	    forceful. When the explosions in the combustion chambers are more
+	    forceful, the engine turns faster and more powerfully. When the engine
+	    turns faster and more powerfully, the car tends to accelerate. From all
+	    this, it follows that when you push on the gas pedal, the car tends to
+	    accelerate.
+        </content>
+    
+        <answer correct="1">
+	   Argument
+        </answer>
+    
+        <answer correct="0">
+	    Not an argument. Purely expository passage.
+        </answer>
+        <answer correct="0">
+	    Not an argument. Conditional in isolation.
+        </answer>
+        <answer correct="0">
+	    Not an argument. Pure expression of belief.
+        </answer>
+    
+        <explanation>
+	    This counts as an argument! The conclusion is the final assertion, 
+	    and is introduced by the conclusion indicating phrase "from all this, 
+	    it follows that". The first five sentences are the premises. 
+        </explanation>
+    </q>
+
+
+    <q>
+        <content>
+            P1) If the Nazis had won World War II, Germany would now rule the world.
+	    
+	    P2) The Nazis lost World War II.
+	    
+	    C) Therefore, Germany does not now rule the world.
+        </content>
+    
+        <answer correct="1">
+	    Invalid	
+        </answer>
+    
+        <answer correct="0">
+	    Valid
+        </answer>
+    
+        <explanation>
+	    This argument is *invalid*. Even if both premises were true, the conclusion
+	    could still be false!
+
+	    Here's how that could happen. Suppose the Nazis' goal was world
+	    domination, so if they had won WWII, Germany would now rule the world.
+	    But the Nazis lost WWII. Do these things together imply that the Nazis
+	    do NOT now rule the world? No! (Even though of course the Nazis do not
+	    actually rule the world, we can imagine that even though they lost WWII, Germany
+	    wound up ruling the world anyway. Just suppose that shortly after losing World War II, they
+	    started World War III and won that war, and now sadly the Nazis rule the world.
+	    Awful scenario, but not one that is contradicted by the argument's premises!) 
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            P1) Joey does not know a single word of Spanish.
+	    
+	    C) Therefore, Joey will not respond in perfect Spanish if asked a question in
+	    Spanish.
+        </content>
+    
+        <answer correct="1">
+	    Invalid
+        </answer>
+    
+        <answer correct="0">
+	    Valid
+        </answer>
+    
+        <explanation>
+	    This is an *invalid* argument! 
+
+	    The conclusion *could* turn out false even if the premise
+	    were true! (Joey might not know a single word of Spanish, but 
+	    through sheer luck he might reply in perfect Spanish if he were asked
+	    a question in Spanish!)
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+             P1) If the cows will come home tonight, then we will have fresh
+	    milk tomorrow.
+	    
+	    P2) We will have fresh milk tomorrow.
+	    
+	    C) Therefore, the cows will come home tonight.
+        </content>
+    
+        <answer correct="1">
+	    Invalid
+        </answer>
+    
+        <answer correct="0">
+	    Valid
+        </answer>
+    
+        <explanation>
+	    This argument is *invalid*. 
+
+	    To be valid, it must be IMPOSSIBLE for the conclusion to be 
+	    true if the premises are all true, but that's not what we have here.
+	    Suppose both premises are true. So, let's assume that yes, it's true
+	    that IF the cows come home, THEN we'll have fresh milk tomorrow, AND, yes,
+	    we assume that we WILL have fresh milk tomorrow... do these things
+	    NECESSARILY IMPLY the cows will come home? No! Maybe tomorrow
+	    they won't come home and we'll have to go buy fresh milk. 
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            P1) Teresa is in Tulsa Oklahoma.
+	    
+	    C) Therefore, Either Teresa is in Tulsa Oklahoma, or she is in Lincoln Nebraska.
+        </content>
+    
+        <answer correct="1">
+	    Valid
+        </answer>
+    
+        <answer correct="0">
+	    Invalid
+        </answer>
+    
+        <explanation>
+	    This argument is *valid*. 
+
+	    If the premise is true, and Teresa IS in Tulsa, then 
+	    it HAS to be true that she is in Tulsa OR Lincoln. Compare: if 
+	    you *are at home*, then surely it's true that EITHER you are 
+	    at home OR on the planet Mars!
+        </explanation>
+    </q>
+
+
+    <q>
+        <content>
+            P1) All of the paint Sam bought is completely bright red.
+	    
+	    C) Therefore, the paint Sam bought is not solid black.
+        </content>
+    
+        <answer correct="1">
+	    Valid
+        </answer>
+    
+        <answer correct="0">
+	    Invalid
+        </answer>
+    
+        <explanation>
+	    This counts as valid!
+
+	    If we assume it's true that all the paint Sam bought really is completely bright red,
+	    it cannot conceivably also be solid black! (Try to imagine something being
+	    BOTH bright red AND solid black at the same time...) 
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            P1) Some analysts predict that the polls will be unreliable in future elections.
+	    
+	    P2) The polls were wrong about the most recent election.
+	    
+	    C) Therefore, the polls will be unreliable in the next election.
+        </content>
+    
+        <answer correct="1">
+	    Invalid
+        </answer>
+    
+        <answer correct="0">
+	    Valid
+        </answer>
+
+        <explanation>
+	    This argument is *invalid*. 
+
+	    It is possible for the conclusion to be false even if BOTH
+	    premises are assumed TRUE. Even if we assume that the polls
+	    were wrong in the previous 
+	    election and that some experts predict they'll be wrong
+	    in the next election, it still possible
+	    for the polls to be reliable in the next election!
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            P1) The number I'm thinking of is between 100 and 200.
+	    
+	    P2) The number I'm thinking of is a multiple of 5.
+	    
+	    C) Therefore, the number I'm thinking of is between 110 and 190.
+        </content>
+    
+        <answer correct="1">
+	    Invalid	
+        </answer>
+    
+        <answer correct="0">
+	    Valid	
+        </answer>
+    
+        <explanation>
+	    This argument counts as *invalid*. 
+
+	    Both premises could be true and the number I'm thinking of could be 105 or 195,
+	    neither of which are between 110 and 190. 
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            P1) Tom thinks the movie was great.
+	    
+	    P2) Darnell thinks the movie was terrible.
+	    
+	    C) Therefore, the movie was neither great nor terrible.
+        </content>
+    
+        <answer correct="1">
+	    Invalid	
+        </answer>
+    
+        <answer correct="0">
+	    Valid	
+        </answer>
+    
+        <explanation>
+	    This argument is *invalid*.
+
+	    Logically, it is possible for the movie to actually be (objectively) great,
+	    even though Tom and Darnell disagree about it. (Logic doesn't assume that there
+	    is no such thing as objective greatness!)
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            P1) The point is at the center of a circle.
+	    
+	    C) Therefore, the point is not at the center of a square.
+        </content>
+    
+        <answer correct="1">
+	    Invalid
+        </answer>
+    
+        <answer correct="0">
+	    Valid
+        </answer>
+    
+        <explanation>
+	    This argument is *invalid*. 
+
+	    To see why, just picture a circle perfectly inscribed inside a square (i.e., 
+	    touching it at only four points).
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            P1) If Alabama wins the national championship, Tom will do a backflip.
+	    
+	    P2) Tom will not do a backflip.
+	    
+	    C) Therefore, Alabama will not win the national championship.
+        </content>
+    
+        <answer correct="1">
+	    Valid
+        </answer>
+    
+        <answer correct="0">
+	    Invalid
+        </answer>
+    
+        <explanation>
+	    This argument is *valid*! 
+
+	    This is an instance of Modus Tollens! Modus Tollens is the following pattern:
+
+	    Premise) Not B.
+	    
+	    Premise) If A, then B.
+
+	    Conclusion) Therefore, not A.
+
+	    Note: the order of the premises does not matter. 
+
+	    Remember: *any* instance of Modus Tollens is valid. (Check for yourself
+	    that this argument is an instance of Modus Tollens!) 
+	    We can also check that this is valid by trying to 
+	    imagine the conclusion being false despite both premises being true. If you do 
+	    I think you'll find that if the conclusion is false one of the premises MUST
+	    be false as well. (But don't take my word for it; try it!)
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            P1) The thermometer in the window says it's below zero outside.
+
+	    P2)	I can see snow falling outside through the window.
+	    
+	    C) Therefore, it is cold outside.
+        </content>
+    
+        <answer correct="1">
+	    Invalid	
+        </answer>
+    
+        <answer correct="0">
+	    Valid	
+        </answer>
+    
+        <explanation>
+	    This argument is *invalid*.
+            
+	    It seems bizarre to imagine it not being cold despite both of those
+	    premises being true, but it is conceivable! The thermometer might just be
+	    broken (the premise can still be true---it just says that the thermometer 
+	    SAYS it's below zero). Now let's also assume you can see snow outside.
+	    Experience teaches us that snow (i.e., crystalline water bits
+	    falling from the clouds) does not form
+	    in the heat, but that doesn't mean we can't imagine water 
+	    crystallizing in the heat and falling from the clouds! (Logic is not bound by 
+	    the laws of nature, only by what is conceivable!)
+        </explanation>
+    </q>
+
+    <q>
+	<content>
+	    The Burj Khalifa is shorter than the Empire State Building. Here’s
+	    why this is the case. The tallest building in the world is the
+	    Empire State Building. If the tallest building in the world is the
+	    Empire State Building, then the Burj Khalifa is shorter than the
+	    Empire State Building.
+	</content>
+    
+        <answer correct="1">
+	    This is a valid instance of Modus Ponens.
+        </answer>
+    
+        <answer correct="0.5">
+	    This is a valid instance of Modus Tollens.
+        </answer>
+
+	<answer correct="0">
+	    This is invalid, but it has inductive support.
+	</answer>
+
+	<answer correct="0">
+	    This is invalid, with no inductive support.
+	</answer>
+    
+        <explanation>
+	    This is a *valid* argument, and is an instance of *Modus Ponens!*
+
+	    Modus Ponens is the following pattern:
+
+	    Premise) If A, then B.
+
+	    Premise) A.
+
+	    Conclusion) Therefore, B.
+
+	    Note: the premises can be in either order.
+
+	    Check for yourself that this argument fits this pattern!
+        </explanation>
+    </q>
+
+    <q>
+	<content>
+	    Crater Lake, the deepest lake in the United States, was caused by a huge volcanic eruption 7,700
+	    years ago. Since human beings have lived close to the mountain for more than 10,000 years, it
+	    follows that at least one human witnessed that eruption.
+	</content>
+    
+        <answer correct="1">
+	    This is an invalid argument.
+        </answer>
+    
+        <answer correct="0">
+	    This is a valid argument, and is an instance of Modus Ponens.
+        </answer>
+
+	<answer correct="0">
+	    This is a valid argument, and is an instance of Hypothetical Syllogism.
+	</answer>
+
+	<answer correct="0">
+	    This is a valid argument, and is an instance of Multiple Modus Ponens.
+	</answer>
+    
+        <explanation>
+	    This is an *invalid* argument! 
+
+	    The conclusion is that at least one human witnessed the huge volcanic eruption that created Crater Lake
+	    7,700 years ago. The premises are that the lake was caused by an eruption 7,700 years ago, and that
+	    humans have lived close to the mountain for more than 10,000 years. But those two premises together,
+	    even if we assume they are both true, do not *necessarily imply* that anyone saw the eruption. Maybe
+	    the people were all away on vacation!
+        </explanation>
+    </q>
+
+    <q>
+	<content>
+	    The earth is either flat or round. Also, the moon is made of cheese if the earth is
+	    flat. The earth is not round. Hence, we may infer that the moon is made of cheese.
+	</content>
+    
+        <answer correct="1">
+	    Valid Argument
+        </answer>
+    
+        <answer correct="0">
+	    Invalid Argument
+        </answer>
+
+	<answer correct="0">
+	    Purely expository passage
+	</answer>
+
+	<answer correct="0">
+	    Conditional in isolation
+	</answer>
+    
+        <explanation>
+	    This argument is *valid*. 
+
+	    Remember: validity means deductive support, which is about the logical connection between
+	    the premises and the conclusion, not about whether the premises are actually true! We can
+	    verify that this argument has deductive support by imagining all the premises are true
+	    and working out what must follow from them. We assume the earth is flat or round 
+	    and that it is NOT round. So we can infer that the earth is flat. Then we assume that
+	    the earth is made of cheese if it is flat. Well, we've concluded already that it's flat,
+	    so we must conclude that it is made of cheese! (Remember: we're just working through the 
+	    logic, we know the premises are actually false, but we're *assuming* they're true for the 
+	    moment to check the reasoning!)
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            We can infer that Sean goes to the college, because everyone at the college knows Tom and Sean knows Tom.
+        </content>
+    
+        <answer correct="1">
+	    Invalid Argument	
+        </answer>
+    
+        <answer correct="0">
+	    Valid Argument	
+        </answer>
+
+	<answer correct="0">
+	    Conditional in isolation
+	</answer>
+
+	<answer correct="0">
+	    Purely expository passage
+	</answer>
+    
+        <explanation>
+	    This is an *invalid* argument. 
+
+	    We can see that it is invalid because we can check that
+	    the conclusion could be false even though both premises are true.
+	    Suppose it's true that everyone at the college knows Tom
+	    and that Sean knows Tom. Do these things necessarily 
+	    imply that Sean goes to the college? No! It's possible Sean 
+	    never went to college and is just Tom's friend from high school.
+        </explanation>
+    </q>
+
+    <q>
+	<content>
+	    The fastest way to drive to Alabama is to take the Interstate south
+	    through New York and then through Virginia. Most of the drive
+	    will go down the Appalachian Mountains. When you get to North
+	    Carolina, stop at a Waffle House and order a plate of pecan
+	    waffles.
+	</content>
+    
+        <answer correct="1">
+	    Not an argument. Mostly expository with a command.
+        </answer>
+    
+        <answer correct="0">
+	    Valid Argument
+        </answer>
+
+	<answer correct="0">
+	    Invalid Argument
+	</answer>
+
+	<answer correct="0">
+	    Not an argument. Conditional in isolation.
+	</answer>
+    
+        <explanation>
+	    This is not an argument. The first two assertions 
+	    seem to just be offering information (without giving any 
+	    reasons to accept the information other than the speaker's authority).
+	    The final sentence is a command. 
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+	    If Alice the cat is nice, then she deserves kindness.
+	    If she deserves kindness, then you should pet her. So, if Alice
+	    the cat is nice, you should pet her! 
+        </content>
+    
+        <answer correct="1">
+	    This is valid, and is an instance of Hypothetical Syllogism
+        </answer>
+    
+        <answer correct="0">
+	    This is an invalid argument.
+        </answer>
+
+	<answer correct="0.5">
+	    This is valid, and is an instance of Modus Ponens.
+	</answer>
+
+	<answer correct="0">
+	    This is a conditional in isolation.
+	</answer>
+    
+        <explanation>
+	    This is an instance of *Hypothetical Syllogism*, and (remember!)
+	    every instance of Hypothetical Syllogism is valid.
+
+	    Hypothetical Syllogism is this pattern:
+
+	    Premise) If A, then B.
+
+	    Premise) If B, then C.
+
+	    Conclusion) Therefore, if A, then C.
+
+	    You can check for yourself that this argument is an instance!
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            The golden rule of logic says...
+        </content>
+    
+        <answer correct="1">
+	    If an argument is valid, and you deny its conclusion,
+	    then you must also deny at least one of its premises.
+        </answer>
+    
+        <answer correct="0">
+	    If an argument is valid, and you deny one of its premises,
+	    then you must also deny its conclusion.
+        </answer>
+
+	<answer correct="0">
+	    You must do unto others as you would have them do unto you.
+	</answer>
+
+	<answer correct="0">
+	    If you don't like an argument, then you should reject
+	    its conclusion.
+	</answer>
+    
+        <explanation>
+	    When an argument is valid, that means that its conclusion MUST 
+	    be true IF ALL of its premises are true. In other words, there's no
+	    way its conclusion can be false if all of its premises are true!
+	    Therefore, it is self-contradictory to accept all the premises in a valid
+	    argument and deny the conclusion. When an argument is valid you have
+	    to either accept the conclusion or deny a premise!
+        </explanation>
+    </q>
+
+    <q>
+	<content>
+	    If inflation heats up, then interest rates will rise. But, if
+	    interest rates rise, then bond prices will decline. In view of
+	    this, we should conclude that if inflation heats up, then
+	    bond prices will decline.
+	</content>
+    
+        <answer correct="1">
+	    This is a valid instance of Hypothetical Syllogism.
+        </answer>
+    
+        <answer correct="0.5">
+	    This is a valid instance of Modus Ponens.
+        </answer>
+
+	<answer correct="0">
+	    This is invalid, but does have inductive support.
+	</answer>
+
+	<answer correct="0">
+	    This is not an argument. It is a conditional in isolation.
+	</answer>
+    
+        <explanation>
+	    This is an instance of *Hypothetical Syllogism*, and (remember!)
+	    every instance of Hypothetical Syllogism is valid.
+
+	    Hypothetical Syllogism is this pattern:
+
+	    Premise) If A, then B.
+
+	    Premise) If B, then C.
+
+	    Conclusion) Therefore, if A, then C.
+
+	    You can check for yourself that this argument is an instance!
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            There can be arguments that have the Modus Ponens structure but that are *invalid*.
+        </content>
+    
+        <answer correct="1">
+	    False
+        </answer>
+    
+        <answer correct="0">
+	    True
+        </answer>
+    
+        <explanation>
+	    Modus Ponens is a *valid argument form*. This means that 
+	    *any instance* of it will be a valid argument. We can see why this
+	    is the case if we think about the structure. 
+
+	    Premise) If A, then B.
+
+	    Premise) A.
+
+	    Conclusion) Therefore, B.
+
+	    Remember, to say that this is a valid form means that no matter what
+	    A and B are (they can be any declarative sentences!), the conclusion of this
+	    CANNOT be false if BOTH premises are true! (If you're unsure: 
+	    make up your own instance of Modus Ponens with a *conclusion* you know to be 
+	    *false* --- you will see that one of the two premises you made is false as well!)
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+	    Massachusetts is in New England, and if Boston is in New England, then 
+	    Boston is in the USA. Therefore, Boston is in the USA.
+        </content>
+    
+        <answer correct="1">
+	    Invalid Argument
+        </answer>
+    
+        <answer correct="0">
+	    Valid Argument in Modus Ponens form
+        </answer>
+
+	<answer correct="0">
+	    Valid Argument in Hypothetical Syllogism form
+	</answer>
+
+	<answer correct="0">
+	    Purely expository passage
+	</answer>
+    
+        <explanation>
+	    This is an *invalid* argument. (Its two premises are contained in the
+	    first sentence, and its conclusion comes after the conclusion indicator "therefore".)
+
+	    Remember: whether are argument is valid does not depend on whether 
+	    the premises (or the conclusion) are *in fact true*. So, even though both premises of this argument
+	    are true (and so is the conclusion!), that fact has no bearing on whether the argument is valid! Whether an
+	    argument is valid is a question solely about the logic --- the reasoning itself ---
+	    that connects the premises to the conclusion; an argument is valid when 
+	    we can truthfully assert one (or both) of the following 
+	    conditional statements:
+
+	    *If* the argument's premises are *all true*, then the conclusion *must be true too*.
+
+	    *If* the argument's premises were *all true*, then the conclusion *would have to be true too*.
+
+	    We cannot truthfully assert these of the argument above. Of course it is true
+	    that MA is in New England and that if Boston is in New England then it is 
+	    in the USA. But do those two things together necessarily imply that
+	    Boston is in the USA? No! As far as the premises are concerned, Boston could
+	    be located anywhere! (The first premise doesn't mention Boston at all, 
+	    and the second premise only says that *if* Boston is in New England...)
+        </explanation>
+    </q>
+
+    <q>
+        <content>
+            An argument is sound if and only if... 
+        </content>
+    
+        <answer correct="1">
+	    It is valid and its premises are all true.
+        </answer>
+    
+        <answer correct="0">
+	    Its premises are all true and it is inductive.
+        </answer>
+
+	<answer correct="0">
+	    Its premises and its conclusion are all true. 
+	</answer>
+
+	<answer correct="0">
+	    It is valid and its conclusion is true.
+	</answer>
+    
+        <explanation>
+	    Soundness is validity plus true premises. When an argument is 
+	    sound, its conclusion *must be true*. (Sound arguments are sometimes
+	    referred to as *proofs*.)
+        </explanation>
+    </q>
+</quiz>

@@ -4,8 +4,10 @@ JSON_FILES := $(XML_FILES:.xml=.json)
 
 .PHONY: all
 
-all: quizScript.js $(JSON_FILES) 
+all: vocabula quizScript.js $(JSON_FILES) final
 
+vocabula:
+	perl -i.bak -pe 's|</quiz>\s*||' vocabula.xml && perl -C -ne 'if (m/\s*(.*?)\s*(\x{27A1}\x{FE0F}?|-->|--->|—>)\s*(.*?)\s*$$/) {print "<q flash=\"yes\"><content>$$1</content><explanation>$$3</explanation></q>\n"} END {print "</quiz>"}' vocabula >> vocabula.xml
 quizScript.js: quizScript.ts
 	- tsc $< 
 %.json: %.xml
@@ -16,3 +18,5 @@ quizScript.js: quizScript.ts
 	rm $@
 	scpToWebsite.sh -f quizzes/$(basename $<) index.html
 	rm index.html
+final:
+	rm quizScript.js

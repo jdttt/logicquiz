@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<quiz>
+    <q flash="y">
+        <content>
+            In the Prisoner's Dilemma, what happens if both prisoners confess? 
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            They both get one year in prison. 
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            In the Prisoner's Dilemma, what happens if both prisoners deny? 
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            They both get six months in prison. 
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            In the Prisoner's Dilemma, what happens if one prisoner denies and the other confesses? 
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    The one who denies does two years in jail, and the confessor does no time (because they acted as an informant).
+        </explanation>
+    </q>
+
+    <q flash="n">
+        <content>
+	    If you are in the Prisoner's Dilemma and you only care about minimizing your own punishment, which
+	    option will result in the highest well-being for you: confess, or deny? Why?
+        </content>
+	<answer correct="1">
+	    Confess, because if the other person denies, you go free as opposed to doing six months, and if the other
+	    person confesses you do one year as opposed to two --- so no matter what the other person does, confessing
+	    means less time. 
+	</answer>
+	
+	<answer correct="0">
+	    Deny, because if you deny, and the other person denies, you only have to do six months. 
+	</answer>
+
+        <explanation>
+	    No matter what the other person does, you minimize your jail time by confessing. So if you want to 
+	    maximize your LWL ("lifetime well-being level") and you only care about avoiding punishment, you should confess. 
+        </explanation>
+    </q>
+
+    <q flash="n">
+        <content>
+	    In the Prisoner's Dilemma, if everyone does the action that will raise their LWL the most,
+	    does the group achieve the best result that they can? 
+        </content>
+
+	<answer correct="1">
+	    No
+	</answer>
+	
+	<answer correct="0">
+	    Yes
+	</answer>
+
+        <explanation>
+	    If both prisoners confess, they do the most they can individually to minimize their jail time.
+	    Neither prisoner can control what the other does, and regardless of what the other does, confessing
+	    results in less jail time. But the best group outcome is achieved by both denying (both do 6 months).
+	    To achieve this, both prisoners must act against their own self-interest. (Assuming the other guy
+	    denies, you can confess and go free! Denying means making a personal sacrifice --- going to jail 
+	    for six months --- when you could "rat" on the other guy instead --- confess --- and go home.)
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is Marquis's Valuable Future Account (VFA) as it was stated in class?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            1. Killing harms the victim by depriving it of valuable future.
+
+	    2. The amount of harm done to the victim is proportional to the amount of valuable future the victim loses by dying.
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What are the four nice things about Marquis's VFA?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            1. The VFA offers a nice explanation of why killing is typically the most harmful thing you can do to a person.
+
+	    2. The VFA offers a nice explanation for why euthanasia is typically not as harmful as other forms of killing.
+
+	    3. The VFA offers a nice explanation of why killing some intelligent animals (or an intelligent extra-terrestrial) would be very wrong.
+
+	    4. The VFA offers a nice explanation for why killing a newborn infant can be just as bad or worse than killing an adult.
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is Marquis's Pro-Life Argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) It is objectively morally required to minimize total harm. [“Harm Minimization”]
+
+	    P2)The VFA is true.
+
+	    P3)If the VFA is true, then abortion almost always harms the fetus more than delivery harms everyone else combined.
+
+	    C)Therefore, abortion is almost always objectively wrong.
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What are the three objections to Marquis's Pro-Life Argument discussed in class?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+Objection #1: The VFA is crazy! It implies that it is wrong to not constantly procreate, since if you choose not to procreate when you could, you’re depriving sperm and egg of valuable futures! It even implies it’s wrong to not eat dirt --- since if you don’t, you’re depriving the nutrients in the dirt of a valuable future! Thus, the VFA is false.
+
+Objection #2: If a being is totally mentally inactive, and has never been mentally active, then even if it has a lot of valuable future ahead, it cannot be greatly harmed by death. Therefore, the VFA is false.
+
+Objection #3: The future of a zygote or early fetus is to become a human body ---  not a person. People are brains or minds, both of which are distinct from bodies. So, even if the VFA is true, fetuses and early zygotes are not harmed by abortion, because they have no valuable future.
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the "Requirement For Depriving" principle discussed in class?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            Death only deprives something of a valuable future if the thing that dies is the very same thing that would have had the valuable future.
+
+	    In other words: you can't deprive something of a valuable future if that thing doesn't exist yet.
+        </explanation>
+
+	<study>
+	    How does this help Marquis deal with the objection that his VFA implies that using contraception harms the sperm and egg, or harms the future child you would have had?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the "Active Development Requirement" discussed in class?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            Depriving a being of valuable future only harms that being when it is actively developing.
+        </explanation>
+
+	<study>
+	    How does this principle help Marquis deal with the objection that his VFA implies that destroying frozen embryos is equivalent to murdering human infants?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the "Boy Clone Frank" argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) Boy Clone Frank loses lots of valuable future but is not harmed by death.
+
+	    P2) If Boy Clone Frank loses lots of valuable future but is not harmed by death, then the VFA is false.
+
+	    C) Therefore, the VFA is false.
+        </explanation>
+
+	<study>
+	    Who was "Boy Clone Frank" and what are the details of his creation and death?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the "Boy Clone Igor" argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) Killing Anne to save Boy Clone Igor is morally wrong, even if Boy Clone Igor has way more valuable future than Anne.
+
+	    P2) If P1 is true, then either the VFA is false or Harm Minimization is false.
+
+	    C) Therefore, either the VFA is false or Harm Minimization is false.
+        </explanation>
+
+	<study>
+	    Who are Anne and Boy Clone Igor? What's the story connected with this? (Review the Marquis slides!)
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Conjoined Twins Argument? (Hint: It is based on the Hensel twins, Abby and Brittany.)
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) If BIOLOGICAL ORGANISMS are WHAT PEOPLE ARE, then Abby and Brittany Hensel are ONE PERSON.
+
+	    P2) Abby and Brittany are NOT ONE PERSON.
+
+	    C) Thus, BIOLOGICAL ORGANISMS are NOT WHAT PEOPLE ARE.
+        </explanation>
+
+	<study>
+	    How is this conclusion a problem for Marquis's Pro-Life Argument? (Hint: it involves the Requirement for Depriving!)
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Brain Transplant Argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) If you were ever a biological organism, then you would be on the table.
+
+	    P2) You would NOT be on the table.
+
+	    C) Therefore, you were never a biological organism.
+        </explanation>
+
+	<study>
+	    What are the details of the scenario that this is based on? (Review the Marquis slides!)
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+	    What is the People are Brains/Minds Argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) If people are brains/minds, then early fetuses and zygotes lack valuable future.
+
+	    P2) If fetuses and zygotes lack valuable future, then the VFA says death does not harm them.
+
+	    P3) People are brains/minds.
+
+	    C) Therefore, the VFA says death does not harm early fetuses and zygotes.
+        </explanation>
+
+	<study>
+	    Why is P1 true? (Hint: Remember [Krang from TMNT](https://en.wikipedia.org/wiki/Krang))
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+	    What is the Pro-Life Rights Conflict Argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) Fetuses have the right to life.
+
+	    P2) A pregnant woman has the right to say who or what can use her body.
+
+	    P3) The right to life trumps the right to bodily autonomy.
+
+	    C) If there are no other morally relevant factors besides the fetus’s right to life and the woman’s bodily autonomy, abortion is wrong/immoral.
+        </explanation>
+
+	<study>
+	    Before Thomson's "Defense of Abortion" what was the premise everyone debated? What was new and different
+	    about Thomson's response to the argument?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is Thomson's Violinist Argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) IF it is not wrong to unplug from the violinist, THEN even if a fetus is a full person with the right to life, it is not wrong to abort a rape pregnancy.
+
+    P2) It is not wrong to unplug from the violinist.
+
+C) Therefore, it is not wrong to abort a rape pregnancy, even if the fetus is a full person with the right to life.
+        </explanation>
+
+	<study>
+	    Who is "the Violinist" here? What are the details of the case? (Review the Thomson slides!)
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is Thomson's Expanding Baby Argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) IF it is not wrong to kill the expanding baby, THEN even if a fetus is a full person with the right to life, it is not wrong to abort a life-threatening pregnancy.
+
+P2) It is not wrong to kill the expanding baby.
+
+C) Therefore, it is not wrong to abort a life-threatening pregnancy, even if the fetus is a full person with the right to life.
+        </explanation>
+	<study>
+	    What is "the expanding baby" here? What are the details of the case? (Review the Thomson slides!)
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is Thomson's Coat Argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) IF it is not wrong for Jones to retrieve your coat, THEN even if a fetus is a full person with the right to life, it is not wrong for a doctor to perform an abortion to save a pregnant woman’s life.
+
+P2) It is not wrong for Jones to retrieve your coat.
+
+C) Therefore, even if a fetus is a full person with the right to life, it is not wrong for a doctor to perform an abortion to save a pregnant woman’s life.
+        </explanation>
+
+	<study>
+	    Who is "Jones" here? What does your "coat" represent? What are the details of this case? (Review the Thomson slides!)
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Pro-Life "Responsibility" Argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    P1) When a woman is pregnant from consensual sex, it is partly her fault that a new person exists and needs to use her body for nine months to survive.
+
+	    P2) IF it is partly your fault that a new person exists and needs to use your body for nine months to survive, THEN so long as it doesn’t threaten your life, this new person has a right to use your body.
+
+	    C) Therefore, when a woman is pregnant from consensual sex, the new person (fetus) has a right to use the woman’s body for nine months, unless it threatens her life.
+        </explanation>
+
+	<study>
+	    How does Thomson respond to this using the Plant-Person Case? (Review the Thomson slides!)
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+	    What is Thomson's Plant Person Argument?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) IF it is not wrong to uproot the plant person, THEN even if a fetus is a full person with the right to life, it is not wrong to abort a pregnancy from consensual sex with failed contraception.
+
+P2) It is not wrong to uproot the plant person.
+
+C) Therefore, it is not wrong to abort a pregnancy from consensual sex with failed contraception, even if the fetus is a full person with the right to life.
+        </explanation>
+
+	<study>
+	    Who is the "plant person"? What are all the details of this case? (Review the Thomson slides!)
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+	    What is the Pro-Life "Parental Responsibility Argument"?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    P1) Biological parents have *minimal parental obligations* to any offspring that are full people and were conceived via consensual sex.
+
+
+P2) Sustaining the life of your offspring for nine months counts as a minimal parental obligation if it does not threaten your life.
+
+C) Therefore, if a fetus is a full person conceived via consensual sex, the pregnant woman has an obligation to sustain its life for nine months, if the pregnancy is not life-threatening.
+        </explanation>
+
+	<study>
+	    How does Thomson respond to this? What is her position on parental responsibility?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is Kant's Categorical Imperative (as presented in class)?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    An action is wrong if and only if it treats a rational being merely as means to an end
+        </explanation>
+
+	<study>
+	    Why is the word "merely" important there? 
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Kantian Argument Against Slavery?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) If slavery always involves treating a rational being (the slave) merely as a means to an end, then slavery is wrong regardless of its consequences.
+
+P2) Slavery always involves treating a rational being (the slave) merely as a means to an end.
+
+C) Therefore, slavery is wrong regardless of its consequences.
+        </explanation>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the "Animals" Argument Against Kant's Categorical Imperative (as presented in class)?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+            P1) If Kant’s Categorical Imperative is true, then secretly torturing a squirrel for fun is not wrong.
+
+	    P2) Secretly torturing a squirrel for fun is wrong.
+
+	    C) Therefore Kant’s Categorical Imperative is false.
+        </explanation>
+
+	<study>
+	    Why is P1 true? What is a way that a Kantian could respond to this argument?
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the Doctrine of Double Effect (DDE)?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+	    The DDE says an act with a good and a bad consequence is permissible if and only if:
+
+1. The action is NOT in itself inherently or necessarily wrong.
+
+2. The good effect IS intended but the bad effect is NOT --- it is “only foreseen”.
+
+3. The bad effect will not be the CAUSE of the good effect.
+
+4. The good effect is weightier than the bad effect.
+        </explanation>
+
+	<study>
+	    What does the DDE say about pulling the lever in the Trolley Problem? Why? If you need to 
+	    review what the Trolley Problem is check the Kant slides!
+	</study>
+    </q>
+
+    <q flash="y">
+        <content>
+            What is the "Unwilling Donor" Case?
+        </content>
+        <!-- use the a snippet here to add answers for non-flash-cards -->
+        <explanation>
+- Five young people will die tonight of organ failure.
+
+- Each of them needs a different organ. A sixth young person, who is healthy, has come to the hospital for a routine blood test and Sheila the surgeon notices that this person is compatible with all five dying patients.
+
+- Sheila could drug the healthy person and surgically remove their organs to save the five, in which case only one would die, and five would live.
+        </explanation>
+
+	<study>
+	    What does the DDE say about killing the one to use their organs to save the five? Why? What does Utilitarianism say?
+	    What does Kant's Categorical Imperative say? What would someone who believes the right to bodily autonomy
+	    trumps the right to life say? 
+	</study>
+    </q>
+</quiz>

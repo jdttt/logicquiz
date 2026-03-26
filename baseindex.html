@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Practice Quiz!</title>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<style>
+	    body { font-family: Georgia, 'Times New Roman', Times, serif; font-size:14pt; }
+	    .container {
+		border: solid;
+		border-color: blue;
+		border-radius: 8px;
+		padding-left: 5px;
+		padding-right: 5px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+	    }
+	    .study { color: green; font-weight:unset; font-style:italic; font-size:0.9rem; }
+	    .instruction { color: green; font-weight:unset; font-style:italic; font-size:0.9rem; }
+	    .feedback { margin-top: 10px; font-weight: bold; display: none; }
+	    .correct { color: green; }
+	    .partial { color: orange; }
+	    .flash { color: blue; }
+	    .incorrect { color: red; }
+	    .hidden { display: none; }
+	    #nextBtn { margin-top: 15px; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 14pt; font-weight: bold; margin-bottom: 15px; }
+	</style>
+    </head>
+    <body>
+	<div id="container" class="container">
+	    <h3 id="question"></h3>
+	    <button id="nextBtn" class="hidden">Next Question</button>
+	    <div id="feedback" class="feedback"></div>
+	    <form id="quiz"></form>
+	    <h3 id="info"></h3>
+	</div>
+	<script></script>
+    </body>
+</html>
+
